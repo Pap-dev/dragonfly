@@ -14,8 +14,8 @@ import geocoder
 import json
 from geopy.geocoders import Nominatim
 
-AIRMAP_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVkZW50aWFsX2lkIjoiY3JlZGVudGlhbHxBQkFSWE5NczRrOG1Nd1NMUGxMWDBoYlBtekoiLCJhcHBsaWNhdGlvbl9pZCI6ImFwcGxpY2F0aW9ufDNaZEpYa2RoYXh5SlBuaUFSNzBaZ2NvV05tWm8iLCJvcmdhbml6YXRpb25faWQiOiJkZXZlbG9wZXJ8WFc0UUx4M1U2ZGVHcHpUMk9rMzBMVVltRzN5RyIsImlhdCI6MTY4MjU4Mzg5NH0.7Z8xY1EL6gKLLJpzQYM8dr5RCfLRYOaywZ4Id909dPo"
-OPEN_WATHER_API_KEY = "6f3e8352e208f8b93fd6f96515388d67"
+# AIRMAP_API_KEY = ""
+# OPEN_WATHER_API_KEY = ""
 
 @staticmethod
 def check_internet_connection():
